@@ -2,17 +2,17 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - NativeScript
+  - Distributed Systems
+  - Microservices
+  - Domain-Driven Design
+  - Clean Architecture
+  - Python - Django
+  - PHP - Symfony
+  - Javascript - NodeJS, Express, TypeScript
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
+Hello! I'm Javier, a software engineer based in Madrid, Spain who enjoys designing and building distributed back-end systems. I develop scalable and maintainable back-ends applying best practices and clean code standards.
 
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
+Shortly after attending [Loyola Marymount University](https://www.lmu.edu/) and graduating from [Universidad de Deusto](https://www.deusto.es/cs/Satellite/deusto/es/universidad-deusto), I joined the engineering team at [Spotahome](https://www.spotahome.com/) where I worked on a wide variety of interesting and meaningful projects on a daily basis. I recently took on a new challenge and joined [Personio's](https://www.personio.com/) engineering team in Madrid.
 
 Here are a few technologies I've been working with recently:
